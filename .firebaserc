@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "moviefans-e00e4",
+    "test": "moviefans-e00e4"
+  },
+  "targets": {},
+  "etags": {}
+}
